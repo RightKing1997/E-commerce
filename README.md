@@ -51,4 +51,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-<img src="Capture.PNG" align="right" width="60">
+<img src="Capture.PNG" align="center" width="100%">
