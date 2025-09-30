@@ -50,3 +50,5 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+<img src="Capture.PNG" align="right" width="60">
